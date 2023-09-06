@@ -1,7 +1,7 @@
 
 
 
-- 🔭 Aspiring Data Analyst and Financial Programmer with a passion for Quantitative Finance, Portfolio Management, and Security Analysis.
+- 🔭Financial Programmer with a passion for Quantitative Finance, Portfolio Management, and Security Analysis.
 - 📖: Currently honing my skills in Python, I'm eager to collaborate on projects within my niche.
 - 📈:Open to learning opportunities in the field of Quantitative Finance while contributing to impactful projects.
 - 📫 Reach me at : silverstar100304@gmail.com
